@@ -1,7 +1,7 @@
 # Randlogtop10
 
 ## Context:
-Randlogtop10 is meant to be a part of the [Cloud Operations Sandbox](https://cloud.google.com/blog/products/operations/on-the-road-to-sre-with-cloud-operations-sandbox), a click-to-deploy open source repo that helps practitioners exercise GCP in an isolated cloud environment with synthetic traffic that is similar to production. This work sets up a triggerable serverless leaderboard that returns top 10 IP addresses that have “visited” the synthetic system.
+Randlogtop10 is meant to be a part of the [Cloud Operations Sandbox](https://cloud.google.com/blog/products/operations/on-the-road-to-sre-with-cloud-operations-sandbox), a click-to-deploy open source repo that helps practitioners exercise GCP in an isolated cloud environment with synthetic traffic that is similar to production. This work sets up a triggerable serverless leaderboard that returns top 10 IP addresses that have “visited” the synthetic system. This repository is not an official Google product.
 
 Checkout the [Cloud Operations Sandbox repo](https://github.com/GoogleCloudPlatform/cloud-ops-sandbox) and deploy right to [Cloud Shell](https://cloud-ops-sandbox.dev/).
 
